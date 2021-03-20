@@ -1,1 +1,14 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__Attributes__
+* _Communicative_
+* _Respectful_
+* _Empathic_
+
+__Programming languages__
+* JavaScript
+  * _Angular_
+  * _React_
+
+__Skills__
+* _Problem solving_
+* _Strategic thinking_
+* _People management_
